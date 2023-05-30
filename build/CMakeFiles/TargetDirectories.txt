@@ -1,0 +1,4 @@
+/home/ritesh/My_Project/Contact_Management_System/build/CMakeFiles/contact.dir
+/home/ritesh/My_Project/Contact_Management_System/build/CMakeFiles/a.out.dir
+/home/ritesh/My_Project/Contact_Management_System/build/CMakeFiles/edit_cache.dir
+/home/ritesh/My_Project/Contact_Management_System/build/CMakeFiles/rebuild_cache.dir

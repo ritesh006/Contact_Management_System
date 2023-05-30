@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libcontact.so -o libcontact.so CMakeFiles/contact.dir/driverCode/menuDisplay.c.o CMakeFiles/contact.dir/driverCode/operationLogic.c.o CMakeFiles/contact.dir/driverCode/chooseOption.c.o CMakeFiles/contact.dir/driverCode/contactCreation.c.o 

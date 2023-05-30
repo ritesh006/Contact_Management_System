@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/a.out.dir/main.c.o -o a.out  -Wl,-rpath,/home/ritesh/My_Project/Contact_Management_System/build libcontact.so 
